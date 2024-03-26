@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.container__second {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 14rem;
+  padding-right: 14rem;
+  padding-top: 5rem;
+}
+
+.section {
+  margin-top: var(--size-7xl);
+}
+
+.val {
+  color: var(--clr-light);
+  margin-top: var(--size-lg);
+}
+
+#formulaImg {
+  width: 300px;
+}

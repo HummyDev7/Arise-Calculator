@@ -1,0 +1,5 @@
+.header__container {
+  display: flex;
+  margin-left: var(--size-7xl);
+  margin-top: var(--size-2xl);
+}
